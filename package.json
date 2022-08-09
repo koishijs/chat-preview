@@ -1,0 +1,17 @@
+{
+  "name": "chat-preview",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^2.5.7",
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^10.1.0"
+  },
+  "devDependencies": {
+    "vercel": "^27.3.8"
+  },
+  "engines": {
+    "node": "^14"
+  }
+}
